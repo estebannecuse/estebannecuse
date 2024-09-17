@@ -45,6 +45,10 @@
 </br>
 <p>AWS </p>
 </br>
+<p>NextJS </p>
+</br>
+<p>NodeJS </p>
+</br>
 <p>TypesCript </p>
 </br>
 <p>PostgreSQL </p>
