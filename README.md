@@ -3,7 +3,10 @@
 ###
 <img src="https://res.cloudinary.com/dvammbscm/image/upload/v1723834378/Foto_Personal_kadh8z.jpg" height="130" width="130">
 
-<p align="left">Me llamo Esteban Necuse, soy de Montevideo, Uruguay</p>
+<p align="left">Quien Soy?</p>
+
+</br>
+<p align="left">Me llamo Esteban Necuse, soy de Montevideo, Uruguay. Actualmente estudiando desarrollo especializado en Backend</p>
 
 </br>
 <p>LinkedIn: www.linkedin.com/in/esteban-necuse-giró-7a1459107</p>
