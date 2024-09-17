@@ -37,6 +37,20 @@
 ###
 
 <h2 align="left">Tecnologias</h2>
+<p>Java </p>
+</br>
+<p>JWT </p>
+</br>
+<p>WebSocket </p>
+</br>
+<p>AWS </p>
+</br>
+<p>TypesCript </p>
+</br>
+<p>PostgreSQL </p>
+</br>
+<p>YypeORM </p>
+</br>
 
 ###
 
